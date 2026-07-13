@@ -127,6 +127,22 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 
 <br/>
 
+## 😄 Just for Fun
+
+<div align="center">
+
+| ☕ Coffee Consumed | 🐛 Bugs Created | 🔧 Bugs Fixed | 🌙 Late Nights Coding |
+|:---:|:---:|:---:|:---:|
+| `9999+` | `∞` | `∞ - 1` | `Every Night` |
+
+| 🧠 Lines of Code | 💡 Ideas at 3AM | ⌨️ Keyboards Destroyed | 🔥 Motivation Level |
+|:---:|:---:|:---:|:---:|
+| `100,000+` | `Countless` | `2` | `Overloaded` |
+
+</div>
+
+<br/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
