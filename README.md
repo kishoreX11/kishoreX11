@@ -1,86 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=250&section=header&text=Kishore%20Kumar%20J&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C3AED&height=240&section=header&text=Kishore%20Kumar%20J&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<h1>👋 Hi, I'm Kishore Kumar J</h1>
-
-<h3>🤖 AI Engineer • 💻 Frontend Developer • ⚙️ Backend Developer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;AI+Engineer;Frontend+Developer;Backend+Developer;Building+Scalable+AI+Applications;Always+Learning+Something+New🚀"/>
+<h1>Hi 👋 I'm Kishore Kumar J</h1>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=kishoreX11&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/kishoreX11?style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/kishoreX11?style=for-the-badge&color=00C853"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=750&color=00F5FF&lines=AI+Engineer;Full+Stack+Developer;Frontend+Developer;Building+Modern+AI+Applications;Always+Learning+Something+New"/>
+</p>
+
+<p>
+
+<a href="mailto:kishorejcs2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/kishore-kumar-j">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/kishore1101">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech – Computer Science & Business Systems
+```yaml
+Name: Kishore Kumar J
 
-🤖 Passionate about Artificial Intelligence & Modern Web Development
+Role: AI Engineer & Full Stack Developer
 
-💡 I enjoy building scalable AI-powered products with beautiful UI/UX.
+Education:
+  B.Tech - Computer Science & Business Systems
 
-🌱 Currently Learning
+Interests:
+  - Artificial Intelligence
+  - Backend Development
+  - Frontend Engineering
+  - System Design
+  - Modern UI/UX
 
-- 🤖 Agentic AI
-- 🧠 Generative AI
-- ⚡ LangChain
-- ☁️ Cloud Computing
-- 🏗️ System Design
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,flutter,nodejs,express,fastapi,spring,mongodb,postgresql,firebase,docker,git,github,vscode"/>
-
-</p>
+Current Focus:
+  - Agentic AI
+  - LangGraph
+  - Cloud Computing
+```
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 AI WellnessVision
-
-🩺 AI-powered Healthcare Platform
-
-**Tech**
-
-Python • Flutter • FastAPI • EfficientNet • Gemini API
-
----
-
-## 🌱 EcoQuest
-
-🌍 Gamified Environmental Learning Platform
-
-**Tech**
-
-React • Node.js • Express • MongoDB • Firebase
-
----
-
-## 📊 GitHub Stats
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase"/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -90,84 +103,42 @@ React • Node.js • Express • MongoDB • Firebase
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishoreX11&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kishoreX11&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kishoreX11&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 
-</div>
+<br><br>
 
----
+🧠 Agentic AI
 
-# ⚡ Current Focus
-
-```text
-🤖 Artificial Intelligence
-
-⚙️ Backend Engineering
-
-🎨 Frontend Development
+⚡ LangGraph
 
 ☁️ Cloud Computing
 
-🚀 Open Source
+🏗️ System Design
 
-🧠 System Design
-```
+🚀 Scalable Architectures
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:kishorejcs2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kishore-kumar-j">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/kishore1101">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💬 Quote
-
-> **"Code. Learn. Build. Repeat." 🚀**
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kishoreX11/kishoreX11/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F5FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F5FF&height=130&section=footer"/>
 
 </div>
