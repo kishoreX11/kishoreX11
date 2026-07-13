@@ -1,144 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C3AED&height=240&section=header&text=Kishore%20Kumar%20J&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kishore%20Kumar%20J&fontSize=55&fontColor=39FF14&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Frontend%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<h1>Hi 👋 I'm Kishore Kumar J</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Building+scalable+AI+%26+Full-Stack+apps;LangChain+%7C+FastAPI+%7C+React+%7C+Spring+Boot;Turning+ideas+into+production-grade+code;Currently+exploring+Multi-LLM+Orchestration" alt="Typing SVG" />
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=750&color=00F5FF&lines=AI+Engineer;Full+Stack+Developer;Frontend+Developer;Building+Modern+AI+Applications;Always+Learning+Something+New"/>
-</p>
+<br/>
 
-<p>
-
-<a href="mailto:kishorejcs2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kishore-kumar-j">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/kishore1101">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0f0c29)](https://linkedin.com/in/kishore-kumar-j)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-FF10F0?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/kishore-1101)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-00F0FF?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f0c29)](https://leetcode.com/u/kishore1101)
+[![Gmail](https://img.shields.io/badge/Email-Contact-FFD700?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0f0c29)](mailto:kishorejcs2006@gmail.com)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
 
-# 👨‍💻 About Me
+## 🧬 About Me
 
 ```yaml
-Name: Kishore Kumar J
-
-Role: AI Engineer & Full Stack Developer
-
-Education:
-  B.Tech - Computer Science & Business Systems
-
-Interests:
-  - Artificial Intelligence
-  - Backend Development
-  - Frontend Engineering
-  - System Design
-  - Modern UI/UX
-
-Current Focus:
-  - Agentic AI
-  - LangGraph
-  - Cloud Computing
+name: "Kishore Kumar J"
+role: "AI Engineer • Frontend Developer"
+education: "B.Tech CS & Business Systems @ VSB Engineering College (2027)"
+focus: ["Multimodal AI", "LangChain Orchestration", "Full-Stack Systems"]
+currently_building: "AI agents for invoice processing & customer review analysis"
+fun_fact: "200+ LeetCode problems solved and counting 🚀"
 ```
 
----
+- 🔭 Building **multimodal & agentic AI systems** with FastAPI, LangChain, and multi-LLM pipelines
+- 🌱 Deepening my expertise in **AI agent orchestration** and **RAG systems**
+- 🏆 Qualified for **Round 2 — Capgemini Exceller AgentifAI Buildathon 2026** (national pool, team of 5)
+- 💡 Passionate about turning research-grade AI into **production-ready** applications
+- ⚡ Fun fact: I debug faster with neon-colored terminals 😎
 
-# ⚡ Tech Stack
+<br/>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FF10F0?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql"/>
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-05122A?style=for-the-badge&logo=springboot&logoColor=FF10F0)
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=39FF14)
+![Express](https://img.shields.io/badge/Express.js-05122A?style=for-the-badge&logo=express&logoColor=00F0FF)
 
-### Frontend
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=00F0FF)
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=39FF14)
 
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css"/>
+### AI / ML
+![Gemini](https://img.shields.io/badge/Gemini_API-05122A?style=for-the-badge&logo=googlegemini&logoColor=FF10F0)
+![LangChain](https://img.shields.io/badge/LangChain-05122A?style=for-the-badge&logo=langchain&logoColor=39FF14)
+![Whisper](https://img.shields.io/badge/Whisper-05122A?style=for-the-badge&logo=openai&logoColor=00F0FF)
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase"/>
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-
-</div>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=FF10F0)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=00F0FF)
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05122A?style=for-the-badge&logo=githubactions&logoColor=FF10F0)
 
 </div>
 
----
+<br/>
 
-# 🔥 GitHub Streak
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kishoreX11&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 AI WellnessVision
+Multimodal healthcare AI app — skin condition detection via **EfficientNet‑B3**, explainable results via **Gemini Vision API**, and voice symptom analysis via **Whisper**.
+
+`Python` `Flutter` `FastAPI` `EfficientNet-B3` `Gemini API`
+
+[![Repo](https://img.shields.io/badge/View_Repo-39FF14?style=flat-square&logo=github&logoColor=black)](https://github.com/kishore-1101)
+
+</td>
+<td width="50%">
+
+### 🌱 EcoQuest
+Gamified environmental awareness platform with missions, quizzes, real-time XP tracking, and a live leaderboard.
+
+`React` `Node.js` `Express.js` `MongoDB` `Firebase Auth`
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF10F0?style=flat-square&logo=github&logoColor=black)](https://github.com/kishore-1101)
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kishoreX11&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kishore-1101&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=FF10F0&text_color=00F0FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-1101&theme=synthwave&hide_border=true&background=0D1117&ring=39FF14&fire=FF10F0&currStreakLabel=00F0FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-1101&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=00F0FF" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-1101&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=FF10F0&point=00F0FF" width="98%"/>
 
 </div>
 
----
+<br/>
 
-# 🌱 Currently Learning
+## 🏆 Achievements & Certifications
+
+- 🥈 **Capgemini Exceller AgentifAI Buildathon 2026** — Qualified for Round 2 (Deep Dive Technical Solutioning)
+- ✅ Programming in Java — **NPTEL**
+- ✅ Python Foundation — **Infosys Springboard**
+- ✅ Salesforce Administrator Explorer — **Salesforce Trailhead**
+- 💻 200+ problems solved on **LeetCode**
+
+<br/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<br><br>
-
-🧠 Agentic AI
-
-⚡ LangGraph
-
-☁️ Cloud Computing
-
-🏗️ System Design
-
-🚀 Scalable Architectures
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+<br/>
+
+## 📈 Profile Views & Visitors
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kishore-1101&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### 💬 "Code with clarity, ship with confidence."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F5FF&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
