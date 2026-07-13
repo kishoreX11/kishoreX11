@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0f0c29)](https://linkedin.com/in/kishore-kumar-j)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-FF10F0?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/kishore-1101)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-FF10F0?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/kishoreX11)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-00F0FF?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f0c29)](https://leetcode.com/u/kishore1101)
 [![Gmail](https://img.shields.io/badge/Email-Contact-FFD700?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0f0c29)](mailto:kishorejcs2006@gmail.com)
 
@@ -82,7 +82,7 @@ Multimodal healthcare AI app — skin condition detection via **EfficientNet‑B
 
 `Python` `Flutter` `FastAPI` `EfficientNet-B3` `Gemini API`
 
-[![Repo](https://img.shields.io/badge/View_Repo-39FF14?style=flat-square&logo=github&logoColor=black)](https://github.com/kishore-1101)
+[![Repo](https://img.shields.io/badge/View_Repo-39FF14?style=flat-square&logo=github&logoColor=black)](https://github.com/kishoreX11)
 
 </td>
 <td width="50%">
@@ -92,7 +92,7 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 
 `React` `Node.js` `Express.js` `MongoDB` `Firebase Auth`
 
-[![Repo](https://img.shields.io/badge/View_Repo-FF10F0?style=flat-square&logo=github&logoColor=black)](https://github.com/kishore-1101)
+[![Repo](https://img.shields.io/badge/View_Repo-FF10F0?style=flat-square&logo=github&logoColor=black)](https://github.com/kishoreX11)
 
 </td>
 </tr>
@@ -106,12 +106,12 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishore-1101&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=FF10F0&text_color=00F0FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-1101&theme=synthwave&hide_border=true&background=0D1117&ring=39FF14&fire=FF10F0&currStreakLabel=00F0FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=FF10F0&text_color=00F0FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoreX11&theme=synthwave&hide_border=true&background=0D1117&ring=39FF14&fire=FF10F0&currStreakLabel=00F0FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-1101&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=00F0FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=00F0FF" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-1101&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=FF10F0&point=00F0FF" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishoreX11&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=FF10F0&point=00F0FF" width="98%"/>
 
 </div>
 
@@ -120,7 +120,7 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kishore-1101&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true&title=Stars,Commits,PullRequest,Followers,Repositories" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kishoreX11&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true&title=Stars,Commits,PullRequest,Followers,Repositories" width="90%"/>
 </div>
 
 <br/>
@@ -136,7 +136,7 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 ## 📈 Profile Views & Visitors
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kishore-1101&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=kishoreX11&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
