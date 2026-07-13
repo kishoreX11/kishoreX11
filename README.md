@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kishore%20Kumar%20J&fontSize=55&fontColor=39FF14&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Frontend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/kishoreX11/kishoreX11/main/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Building+scalable+AI+%26+Full-Stack+apps;LangChain+%7C+FastAPI+%7C+React+%7C+Spring+Boot;Turning+ideas+into+production-grade+code;Currently+exploring+Multi-LLM+Orchestration" alt="Typing SVG" />
 
@@ -136,7 +136,7 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 ## 📈 Profile Views & Visitors
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kishoreX11&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=kishoreX11&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS&base=110"/>
 </div>
 
 <br/>
