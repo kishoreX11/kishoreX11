@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kishore%20Kumar%20J&fontSize=55&fontColor=39FF14&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Frontend%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Building+scalable+AI+%26+Full-Stack+apps;LangChain+%7C+FastAPI+%7C+React+%7C+Spring+Boot;Turning+ideas+into+production-grade+code;Currently+exploring+Multi-LLM+Orchestration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Building+scalable+AI+%26+Full-Stack+apps;LangChain+%7C+FastAPI+%7C+React+%7C+Spring+Boot;Turning+ideas+into+production-grade+code;Currently+exploring+Multi-LLM+Orchestration" alt="Typing SVG" />
 
 <br/>
 
@@ -147,9 +147,7 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
 </div>
 
-> 🧩 *"Code is like humor. When you have to explain it, it's bad."*
-> 🚀 *"First, solve the problem. Then, write the code."*
-> 🔥 *"Simplicity is the soul of efficiency."*
+<p align="center">🔥 <i>"Code with passion, ship with purpose."</i> 🔥</p>
 
 <br/>
 
