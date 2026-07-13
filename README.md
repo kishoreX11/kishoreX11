@@ -117,28 +117,10 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 
 <br/>
 
-## 🏆 Achievements & Certifications
-
-- 🥈 **Capgemini Exceller AgentifAI Buildathon 2026** — Qualified for Round 2 (Deep Dive Technical Solutioning)
-- ✅ Programming in Java — **NPTEL**
-- ✅ Python Foundation — **Infosys Springboard**
-- ✅ Salesforce Administrator Explorer — **Salesforce Trailhead**
-- 💻 200+ problems solved on **LeetCode**
-
-<br/>
-
-## 😄 Just for Fun
+## 🏆 Trophies
 
 <div align="center">
-
-| ☕ Coffee Consumed | 🐛 Bugs Created | 🔧 Bugs Fixed | 🌙 Late Nights Coding |
-|:---:|:---:|:---:|:---:|
-| `9999+` | `∞` | `∞ - 1` | `Every Night` |
-
-| 🧠 Lines of Code | 💡 Ideas at 3AM | ⌨️ Keyboards Destroyed | 🔥 Motivation Level |
-|:---:|:---:|:---:|:---:|
-| `100,000+` | `Countless` | `2` | `Overloaded` |
-
+<img src="https://github-profile-trophy.vercel.app/?username=kishore-1101&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true&title=Stars,Commits,PullRequest,Followers,Repositories" width="90%"/>
 </div>
 
 <br/>
@@ -159,9 +141,19 @@ Gamified environmental awareness platform with missions, quizzes, real-time XP t
 
 <br/>
 
-<div align="center">
+## 💬 Words to Code By
 
-### 💬 "Code with clarity, ship with confidence."
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
+</div>
+
+> 🧩 *"Code is like humor. When you have to explain it, it's bad."*
+> 🚀 *"First, solve the problem. Then, write the code."*
+> 🔥 *"Simplicity is the soul of efficiency."*
+
+<br/>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
