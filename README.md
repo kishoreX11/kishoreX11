@@ -1,173 +1,119 @@
-<div align="center">
+# Kishore Kumar J
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,100:00d4ff&height=280&section=header&text=KISHORE%20KUMAR%20J&fontSize=48&fontColor=00eaff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Frontend%20Developer&descAlignY=54&descSize=19&descColor=8fd9ff" width="100%"/>
+> **AI Engineer · Full-Stack Builder · Creative Technologist**I build thoughtful, scalable products at the intersection of artificial intelligence, robust systems, and expressive digital experiences. This profile documents the work, the process, and the next frontier: interactive 3D and motion-led product storytelling. [1]
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00EAFF&center=true&vCenter=true&width=740&lines=Building+scalable+AI+%26+Full-Stack+apps;LangChain+%7C+FastAPI+%7C+Next.js+%7C+Spring+Boot;Turning+ideas+into+production-grade+code;Currently+building+AI+agents+%26+FinX" alt="Typing SVG" />
+![Kishore Kumar J — abstract AI and creative technology hero](https://private-us-east-1.manuscdn.com/sessionFile/gAG9zyDq36vPeT5s64eDyv/sandbox/eXhspg0t0qsgJYDPEdNRds-images_1786622378991_na1fn_L2hvbWUvdWJ1bnR1L2RvY3MvbWVkaWEva2lzaG9yZS0zZC1oZXJv.png?Expires=1786795682&Signature=MEUCIQDKoIR4NGsTuwSuG5VGfK0VxpysLKkjUQaoo77y3JROjgIgVhoTeRJnfAbi26UvV9e~XKiWzRf1AfzhVRZpgctKgTE_&Key-Pair-Id=K1K5N5YNBUUMMN)
 
-<br/>
+[![Profile](https://img.shields.io/badge/GitHub-kishoreX11-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreX11)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishore%20Kumar%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-kumar-j)[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kishoreX11/portofolio)[![Email](https://img.shields.io/badge/Email-Start%20a%20conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorejcs2006@gmail.com)
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-kumar-j)
-[![GITHUB](https://img.shields.io/badge/GITHUB-00EAFF?style=for-the-badge&logo=github&logoColor=020024)](https://github.com/kishoreX11)
-[![LEETCODE](https://img.shields.io/badge/LEETCODE-020024?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/kishore1101)
-[![EMAIL](https://img.shields.io/badge/EMAIL-FF3D3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorejcs2006@gmail.com)
+---
 
-<img src="https://komarev.com/ghpvc/?username=kishoreX11&color=00EAFF&style=flat-square&label=PROFILE+VIEWS&base=110"/>
-<img src="https://img.shields.io/github/followers/kishoreX11?label=Followers&style=flat-square&color=7F5CFF"/>
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+## The short version
 
-</div>
+I am **Kishore Kumar J**, an AI engineer and frontend developer focused on turning complex ideas into polished, reliable applications. My current work combines **Python and FastAPI**, **Java and Spring Boot**, **React and Next.js**, and modern AI capabilities to create products that are useful, explainable, and ready to grow. [1]
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%">
+| Focus | What I bring |
+| --- | --- |
+| **AI-powered products** | Practical AI features that enhance decisions, automate repetitive work, and make complex information easier to use. |
+| **Full-stack engineering** | Well-connected frontends, APIs, data layers, and delivery workflows designed as one cohesive system. |
+| **Product craft** | Clear interfaces, deliberate interactions, and technical choices that serve real people—not only demonstrations. |
+| **Creative technology** | A growing focus on interactive 3D, motion, and immersive product storytelling. |
 
-## 🧬 About Me
+## Selected work
 
-```yaml
-name: "Kishore Kumar J"
-role: "AI Engineer • Frontend Developer"
-education: "B.Tech CS & Business Systems @ VSB Engineering College (2027)"
-focus: ["Multimodal AI", "Agentic Systems", "Full-Stack Engineering"]
-currently_building: "FinX (AI finance app) · Invoice Processing Agent · Customer Review Analysis Agent"
-fun_fact: "200+ LeetCode problems solved and counting 🚀"
+These projects reflect the themes visible across my public work: applied AI, intelligent interfaces, and systems designed around a concrete human problem. [1]
+
+| Project | Built for | Technical direction |
+| --- | --- | --- |
+| [**DocuMind AI**](https://github.com/kishoreX11/documind-ai) | Turning documents into accessible intelligence. | Python and AI-oriented document workflows. |
+| [**FinX**](https://github.com/kishoreX11/FinX) | A more understandable approach to personal finance, budgeting, expenses, and insights. | TypeScript and an AI-powered application experience. |
+| [**InsightIQ-AI**](https://github.com/kishoreX11/InsightIQ-AI) | Making information more actionable through an AI-oriented interface. | TypeScript and frontend product development. |
+| [**Portfolio**](https://github.com/kishoreX11/portofolio) | A dedicated space to present projects and technical growth. | TypeScript-based portfolio experience. |
+| [**Endee**](https://github.com/kishoreX11/endee) | Exploring performance-oriented systems and open-source software. | C++ and collaborative open source. |
+
+## Creative technology direction
+
+The next body of work expands this profile beyond conventional application interfaces. I am developing a creative-technology practice that brings together **AI, real-time interaction, 3D form, and animation**. The aim is not decoration; it is to make complex systems more intuitive, memorable, and human.
+
+> **Design principle:** A compelling interactive experience should reveal the system underneath it. Motion explains state, spatial design explains relationships, and intelligent behavior should feel purposeful rather than mysterious.
+
+| Exploration | Intended outcome | Showcase format |
+| --- | --- | --- |
+| **Interactive 3D products** | Spatial interfaces for data, AI agents, and technical storytelling. | WebGL / Three.js scene, `.glb` model, short demo reel. |
+| **Motion systems** | Animation that clarifies feedback, hierarchy, and transformation. | Lightweight UI motion study or cinematic loop. |
+| **AI visualisation** | Rich, understandable representations of complex AI workflows. | Interactive concept, generative visual, or product case study. |
+| **Creative developer tooling** | Workflows that help builders move from idea to prototype more quickly. | Open-source experiment with a reproducible demo. |
+
+### 3D showcase — coming next
+
+The hero visual above is an original conceptual direction for this profile: an abstract, luminous structure that represents AI systems, engineering discipline, and creative momentum. The first model-and-animation case study can live here when it is ready.
+
+| Asset | Status | What to add when ready |
+| --- | --- | --- |
+| **Hero model** | Planned | A concise title, `.glb` preview link, and a high-quality beauty render. |
+| **Motion study** | Planned | An optimized 8–12 second GIF that loops naturally in GitHub. |
+| **Technical breakdown** | Planned | Polycount, texture set, toolchain, scene goals, and performance notes. |
+| **Interactive demo** | Planned | A hosted WebGL link with keyboard, touch, and performance considerations. |
+
+## Technology palette
+
+I choose tools according to the problem, the users, and the desired operational quality. The technologies below are reflected in my public profile and repositories. [1]
+
+| Domain | Technologies |
+| --- | --- |
+| **Languages** | Python · Java · TypeScript · SQL · C++ |
+| **Frontend and mobile** | React · Next.js · Flutter · Tailwind CSS |
+| **Backend and APIs** | FastAPI · Spring Boot · Node.js · Express |
+| **AI and machine learning** | Gemini · LangChain · Whisper · EfficientNet · Gemini Vision |
+| **Data and delivery** | PostgreSQL · MongoDB · Docker · GitHub Actions · Git |
+| **Creative technology — exploring** | Three.js · WebGL · Blender · GLTF/GLB · motion design |
+
+## How I build
+
+Great products require more than a feature list. I work from the user’s workflow toward a durable technical design, then validate the solution through iteration, quality checks, and clear presentation.
+
+```
+PROBLEM
+  └─ Clarify the person, decision, or workflow that needs to improve.
+       ↓
+PRODUCT SYSTEM
+  └─ Design the smallest coherent experience that creates a real outcome.
+       ↓
+INTELLIGENCE LAYER
+  └─ Apply AI where it improves understanding, speed, or decision quality.
+       ↓
+ENGINEERING FOUNDATION
+  └─ Build dependable APIs, data models, interfaces, and delivery workflows.
+       ↓
+EXPERIENCE & ITERATION
+  └─ Refine usability, visual hierarchy, performance, and communication.
 ```
 
-- 🔭 Currently building **FinX** — an AI-powered personal finance platform with Next.js + Gemini API
-- 🤖 Building **AI agents** for invoice processing and customer review analysis, drawing on FastAPI + LangGraph
-- 🌱 Deepening my expertise in **agentic orchestration** and **RAG systems**
-- 🏆 Qualified for **Round 2 — Capgemini Exceller AgentifAI Buildathon 2026** (national pool, team of 5)
-- 💡 Passionate about turning research-grade AI into **production-ready** applications
-- ⚡ Fun fact: I debug faster with neon-colored terminals 😎
+## GitHub activity
 
-<br/>
+| Engineering overview | Contribution rhythm |
+| --- | --- |
+| ![Kishore's GitHub statistics](https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true) | ![Kishore's contribution streak](https://streak-stats.demolab.com?user=kishoreX11&theme=transparent&hide_border=true) |
 
-## 🛠️ Tech Arsenal
+![Most-used languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&theme=transparent&hide_border=true)
 
-<div align="center">
+## Open to collaboration
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-00EAFF?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-7F5CFF?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=00EAFF)
-![SQL](https://img.shields.io/badge/SQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=black)
+I welcome conversations about **AI product engineering**, **full-stack applications**, **agentic systems**, **creative development**, and **interactive 3D experiences**. If you are building something ambitious and useful, I would be glad to connect.
 
-**Frontend & Mobile**
-![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=nextdotjs&logoColor=00EAFF)
-![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=00F0FF)
-![Flutter](https://img.shields.io/badge/Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=00EAFF)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-05122A?style=for-the-badge&logo=tailwindcss&logoColor=7F5CFF)
+| Best path | Link |
+| --- | --- |
+| **Professional network** | [LinkedIn — kishore-kumar-j](https://linkedin.com/in/kishore-kumar-j) |
+| **Code and projects** | [GitHub — kishoreX11](https://github.com/kishoreX11) |
+| **Problem solving** | [LeetCode — kishore1101](https://leetcode.com/u/kishore1101) |
+| **Direct contact** | [kishorejcs2006@gmail.com](mailto:kishorejcs2006@gmail.com) |
 
-**Backend & Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=for-the-badge&logo=fastapi&logoColor=00EAFF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-05122A?style=for-the-badge&logo=springboot&logoColor=7F5CFF)
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=00EAFF)
-![Express](https://img.shields.io/badge/Express.js-05122A?style=for-the-badge&logo=express&logoColor=00F0FF)
+---
 
-**AI / ML**
-![Gemini](https://img.shields.io/badge/Gemini_API-05122A?style=for-the-badge&logo=googlegemini&logoColor=7F5CFF)
-![LangChain](https://img.shields.io/badge/LangChain-05122A?style=for-the-badge&logo=langchain&logoColor=00EAFF)
-![Whisper](https://img.shields.io/badge/Whisper-05122A?style=for-the-badge&logo=openai&logoColor=00F0FF)
+## Setting this profile live
 
-**Databases & Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=00EAFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=7F5CFF)
-![Docker](https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=00F0FF)
-![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=00EAFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05122A?style=for-the-badge&logo=githubactions&logoColor=7F5CFF)
+To publish this README as your GitHub profile, place it in the repository named exactly **`kishoreX11/kishoreX11`**. Upload the accompanying hero asset to **`docs/media/kishore-3d-hero.png`** within that repository so the banner renders correctly. When your first 3D project is ready, replace the **“3D showcase — coming next”** table with its model link, animation GIF, project breakdown, and technical data.
 
-</div>
+## References
 
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💰 FinX
-AI-powered personal finance platform — expense tracking, budgeting, spending analysis, and a conversational financial assistant.
-
-`Next.js` `TypeScript` `Tailwind` `Prisma` `Gemini API`
-
-[![Repo](https://img.shields.io/badge/View_Repo-00EAFF?style=flat-square&logo=github&logoColor=black)](https://github.com/kishoreX11/FinX)
-
-</td>
-<td width="33%" valign="top">
-
-### 🩺 AI WellnessVision
-Multimodal healthcare AI app — skin condition detection via EfficientNet-B3, explainable results via Gemini Vision, voice symptom analysis via Whisper.
-
-`Python` `Flutter` `FastAPI` `Gemini API`
-
-[![Repo](https://img.shields.io/badge/View_Repo-7F5CFF?style=flat-square&logo=github&logoColor=white)](https://github.com/kishoreX11)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌱 EcoQuest
-Gamified environmental awareness platform with missions, quizzes, real-time XP tracking, and a live leaderboard.
-
-`React` `Node.js` `MongoDB` `Firebase`
-
-[![Repo](https://img.shields.io/badge/View_Repo-00F0FF?style=flat-square&logo=github&logoColor=black)](https://github.com/kishoreX11)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-## 📌 Pinned Repos
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kishoreX11&repo=FinX&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00EAFF&icon_color=7F5CFF&text_color=00F0FF" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kishoreX11&repo=documind-ai&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00EAFF&icon_color=7F5CFF&text_color=00F0FF" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kishoreX11&repo=InsightIQ-AI&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00EAFF&icon_color=7F5CFF&text_color=00F0FF" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kishoreX11&repo=kishoreX11&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00EAFF&icon_color=7F5CFF&text_color=00F0FF" width="47%"/>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00EAFF&icon_color=7F5CFF&text_color=00F0FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoreX11&theme=synthwave&hide_border=true&background=0D1117&ring=00EAFF&fire=7F5CFF&currStreakLabel=00F0FF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00EAFF&text_color=00F0FF" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishoreX11&theme=react-dark&hide_border=true&bg_color=0D1117&color=00EAFF&line=7F5CFF&point=00F0FF" width="98%"/>
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kishoreX11&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true&title=Stars,Commits,PullRequest,Followers,Repositories" width="90%"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
-## 💬 Words to Code By
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
-</div>
-
-<p align="center">🔥 <i>"Code with passion, ship with purpose."</i> 🔥</p>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:090979,100:020024&height=120&section=footer"/>
-</div>
+[1]: https://github.com/kishoreX11 "Kishore Kumar J — public GitHub profile and repositories"
