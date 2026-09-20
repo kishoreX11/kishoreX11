@@ -1,119 +1,167 @@
-# Kishore Kumar J
+<div align="center">
 
-> **AI Engineer · Full-Stack Builder · Creative Technologist**I build thoughtful, scalable products at the intersection of artificial intelligence, robust systems, and expressive digital experiences. This profile documents the work, the process, and the next frontier: interactive 3D and motion-led product storytelling. [1]
+# Hi, I'm Kishore Kumar J 👋
 
-![Kishore Kumar J — abstract AI and creative technology hero](https://private-us-east-1.manuscdn.com/sessionFile/gAG9zyDq36vPeT5s64eDyv/sandbox/eXhspg0t0qsgJYDPEdNRds-images_1786622378991_na1fn_L2hvbWUvdWJ1bnR1L2RvY3MvbWVkaWEva2lzaG9yZS0zZC1oZXJv.png?Expires=1786795682&Signature=MEUCIQDKoIR4NGsTuwSuG5VGfK0VxpysLKkjUQaoo77y3JROjgIgVhoTeRJnfAbi26UvV9e~XKiWzRf1AfzhVRZpgctKgTE_&Key-Pair-Id=K1K5N5YNBUUMMN)
+### AI Engineer · Full-Stack Developer · Builder of Practical AI Systems
 
-[![Profile](https://img.shields.io/badge/GitHub-kishoreX11-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreX11)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishore%20Kumar%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-kumar-j)[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kishoreX11/portofolio)[![Email](https://img.shields.io/badge/Email-Start%20a%20conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorejcs2006@gmail.com)
+<p>
+<a href="mailto:kishorejcs2006@gmail.com"><img src="https://img.shields.io/badge/Email-kishorejcs2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/kishorekumarx"><img src="https://img.shields.io/badge/LinkedIn-kishorekumarx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/kishoreX11"><img src="https://img.shields.io/badge/GitHub-kishoreX11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p> </div>
 
----
+## About Me
 
-## The short version
+I am an **AI Engineer and Full-Stack Developer** pursuing a B.Tech in Computer Science and Business Systems at VSB Engineering College. I enjoy turning ideas into reliable products by combining modern web engineering with practical machine learning.
 
-I am **Kishore Kumar J**, an AI engineer and frontend developer focused on turning complex ideas into polished, reliable applications. My current work combines **Python and FastAPI**, **Java and Spring Boot**, **React and Next.js**, and modern AI capabilities to create products that are useful, explainable, and ready to grow. [1]
+My work spans **AI-powered applications, REST API design, database-driven systems, privacy-first software, and cross-platform development**. I care about building solutions that are useful, maintainable, and easy for people to adopt.
 
-| Focus | What I bring |
-| --- | --- |
-| **AI-powered products** | Practical AI features that enhance decisions, automate repetitive work, and make complex information easier to use. |
-| **Full-stack engineering** | Well-connected frontends, APIs, data layers, and delivery workflows designed as one cohesive system. |
-| **Product craft** | Clear interfaces, deliberate interactions, and technical choices that serve real people—not only demonstrations. |
-| **Creative technology** | A growing focus on interactive 3D, motion, and immersive product storytelling. |
+- Currently pursuing my B.Tech with an expected graduation in **2027**
 
-## Selected work
+- Based in **Tirupur, Tamil Nadu, India**
 
-These projects reflect the themes visible across my public work: applied AI, intelligent interfaces, and systems designed around a concrete human problem. [1]
+- Experienced in building with **Python, React, Next.js, FastAPI, Node.js, PostgreSQL, and MongoDB**
 
-| Project | Built for | Technical direction |
-| --- | --- | --- |
-| [**DocuMind AI**](https://github.com/kishoreX11/documind-ai) | Turning documents into accessible intelligence. | Python and AI-oriented document workflows. |
-| [**FinX**](https://github.com/kishoreX11/FinX) | A more understandable approach to personal finance, budgeting, expenses, and insights. | TypeScript and an AI-powered application experience. |
-| [**InsightIQ-AI**](https://github.com/kishoreX11/InsightIQ-AI) | Making information more actionable through an AI-oriented interface. | TypeScript and frontend product development. |
-| [**Portfolio**](https://github.com/kishoreX11/portofolio) | A dedicated space to present projects and technical growth. | TypeScript-based portfolio experience. |
-| [**Endee**](https://github.com/kishoreX11/endee) | Exploring performance-oriented systems and open-source software. | C++ and collaborative open source. |
+- Machine Learning Intern who achieved **85%+ model accuracy** and improved training efficiency by **25%**
 
-## Creative technology direction
+- Web Development Intern who contributed to and delivered **3+ client projects**
 
-The next body of work expands this profile beyond conventional application interfaces. I am developing a creative-technology practice that brings together **AI, real-time interaction, 3D form, and animation**. The aim is not decoration; it is to make complex systems more intuitive, memorable, and human.
+- Co-author of an AI healthcare research paper presented at **ICETSIS 2026**
 
-> **Design principle:** A compelling interactive experience should reveal the system underneath it. Motion explains state, spatial design explains relationships, and intelligent behavior should feel purposeful rather than mysterious.
-
-| Exploration | Intended outcome | Showcase format |
-| --- | --- | --- |
-| **Interactive 3D products** | Spatial interfaces for data, AI agents, and technical storytelling. | WebGL / Three.js scene, `.glb` model, short demo reel. |
-| **Motion systems** | Animation that clarifies feedback, hierarchy, and transformation. | Lightweight UI motion study or cinematic loop. |
-| **AI visualisation** | Rich, understandable representations of complex AI workflows. | Interactive concept, generative visual, or product case study. |
-| **Creative developer tooling** | Workflows that help builders move from idea to prototype more quickly. | Open-source experiment with a reproducible demo. |
-
-### 3D showcase — coming next
-
-The hero visual above is an original conceptual direction for this profile: an abstract, luminous structure that represents AI systems, engineering discipline, and creative momentum. The first model-and-animation case study can live here when it is ready.
-
-| Asset | Status | What to add when ready |
-| --- | --- | --- |
-| **Hero model** | Planned | A concise title, `.glb` preview link, and a high-quality beauty render. |
-| **Motion study** | Planned | An optimized 8–12 second GIF that loops naturally in GitHub. |
-| **Technical breakdown** | Planned | Polycount, texture set, toolchain, scene goals, and performance notes. |
-| **Interactive demo** | Planned | A hosted WebGL link with keyboard, touch, and performance considerations. |
-
-## Technology palette
-
-I choose tools according to the problem, the users, and the desired operational quality. The technologies below are reflected in my public profile and repositories. [1]
-
-| Domain | Technologies |
-| --- | --- |
-| **Languages** | Python · Java · TypeScript · SQL · C++ |
-| **Frontend and mobile** | React · Next.js · Flutter · Tailwind CSS |
-| **Backend and APIs** | FastAPI · Spring Boot · Node.js · Express |
-| **AI and machine learning** | Gemini · LangChain · Whisper · EfficientNet · Gemini Vision |
-| **Data and delivery** | PostgreSQL · MongoDB · Docker · GitHub Actions · Git |
-| **Creative technology — exploring** | Three.js · WebGL · Blender · GLTF/GLB · motion design |
-
-## How I build
-
-Great products require more than a feature list. I work from the user’s workflow toward a durable technical design, then validate the solution through iteration, quality checks, and clear presentation.
+## What I Build
 
 ```
-PROBLEM
-  └─ Clarify the person, decision, or workflow that needs to improve.
-       ↓
-PRODUCT SYSTEM
-  └─ Design the smallest coherent experience that creates a real outcome.
-       ↓
-INTELLIGENCE LAYER
-  └─ Apply AI where it improves understanding, speed, or decision quality.
-       ↓
-ENGINEERING FOUNDATION
-  └─ Build dependable APIs, data models, interfaces, and delivery workflows.
-       ↓
-EXPERIENCE & ITERATION
-  └─ Refine usability, visual hierarchy, performance, and communication.
+AI & Machine Learning       → Prediction systems, conversational AI, image recognition, intelligent search
+Full-Stack Applications      → Responsive interfaces, REST APIs, scalable backend services
+Data-Driven Products         → Finance tools, dashboards, analytics workflows, database systems
+Privacy-First Software       → On-device processing and semantic search for confidential documents
 ```
 
-## GitHub activity
+## Featured Projects
 
-| Engineering overview | Contribution rhythm |
-| --- | --- |
-| ![Kishore's GitHub statistics](https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true) | ![Kishore's contribution streak](https://streak-stats.demolab.com?user=kishoreX11&theme=transparent&hide_border=true) |
+### FinX — AI-Powered Personal Finance Advisor
 
-![Most-used languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&theme=transparent&hide_border=true)
+A personal finance platform designed to help users track expenses, manage budgets, monitor financial activity, and make more informed spending decisions.
 
-## Open to collaboration
+**Focus:** AI-powered financial guidance · Personal analytics · Budget management
 
-I welcome conversations about **AI product engineering**, **full-stack applications**, **agentic systems**, **creative development**, and **interactive 3D experiences**. If you are building something ambitious and useful, I would be glad to connect.
+### NaVault — Private Document Search
 
-| Best path | Link |
-| --- | --- |
-| **Professional network** | [LinkedIn — kishore-kumar-j](https://linkedin.com/in/kishore-kumar-j) |
-| **Code and projects** | [GitHub — kishoreX11](https://github.com/kishoreX11) |
-| **Problem solving** | [LeetCode — kishore1101](https://leetcode.com/u/kishore1101) |
-| **Direct contact** | [kishorejcs2006@gmail.com](mailto:kishorejcs2006@gmail.com) |
+A privacy-first semantic search tool that helps users find confidential documents by meaning rather than exact keywords. Its core principle is that documents are processed **on-device**, so private data does not leave the user's computer.
 
----
+**Focus:** Privacy-preserving AI · Semantic search · Local-first architecture
 
-## Setting this profile live
+> Final-year project built with **Team Binode** · Ongoing
 
-To publish this README as your GitHub profile, place it in the repository named exactly **`kishoreX11/kishoreX11`**. Upload the accompanying hero asset to **`docs/media/kishore-3d-hero.png`** within that repository so the banner renders correctly. When your first 3D project is ready, replace the **“3D showcase — coming next”** table with its model link, animation GIF, project breakdown, and technical data.
+### EcoQuest
 
-## References
+A gamified environmental-awareness platform that encourages sustainable engagement through missions, quizzes, and a real-time leaderboard.
 
-[1]: https://github.com/kishoreX11 "Kishore Kumar J — public GitHub profile and repositories"
+**Focus:** Gamification · Community engagement · Real-time web experiences
+
+[Explore EcoQuest on GitHub →](https://github.com/kishoreX11)
+
+## Professional Experience
+
+### Machine Learning Intern — Brainery Spot Technologies
+
+**June 2024 – August 2024**
+
+- Trained and evaluated machine learning models for prediction and analytics use cases.
+
+- Achieved **85%+ model accuracy** through iterative experimentation and evaluation.
+
+- Improved training efficiency by **25%** through preprocessing, feature engineering, and model-tuning workflows.
+
+### Web Development Intern — CodeBind Technologies
+
+**November 2025 – December 2025**
+
+- Developed and maintained web applications across frontend and backend layers.
+
+- Delivered **3+ client projects** while debugging issues and improving usability.
+
+- Participated in code reviews and collaborative development workflows.
+
+## Technical Toolkit
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=swagger&logoColor=white)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Publication
+
+### An AI Intelligence Wellness Framework Integrating Image Recognition and Conversational AI for Preventive Healthcare
+
+**ICETSIS 2026 · IEEE Bahrain Section · Applied Science University, Bahrain**
+
+Co-authored research on a multimodal healthcare system combining image-based skin-condition recognition with conversational, voice-driven symptom analysis for preventive care. The work also explored an AI-powered healthcare framework for supporting wellness and early awareness.
+
+## Certifications
+
+- Programming in Java — **NPTEL**
+
+- TechAJ Java Full Stack Developer — **Infosys Springboard**
+
+- AWS Foundations: Getting Started with the AWS Cloud Essentials — **AWS**
+
+- Python Foundation Certification — **Infosys Springboard**
+
+- Salesforce Becoming an Agentforce Champion — **FutureSkills Prime / Salesforce**
+
+- Introduction to IoT and Digital Transformation — **Cisco Networking Academy**
+
+## Education
+
+**B.Tech — Computer Science & Business Systems**
+VSB Engineering College, Karur, Tamil Nadu
+CGPA: **7.55** · Expected graduation: **2027**
+
+## GitHub Overview
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Kishore's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&hide_border=true&theme=transparent" height="165" alt="Kishore's most used languages" />
+</div> <div align="center">
+  <img src="https://streak-stats.demolab.com?user=kishoreX11&hide_border=true&theme=transparent" alt="Kishore's GitHub streak" />
+</div>
+
+## Let's Connect
+
+I am open to meaningful conversations about **AI engineering, full-stack development, machine learning applications, research collaborations, and opportunities to build useful technology**.
+
+- Email: [kishorejcs2006@gmail.com](mailto:kishorejcs2006@gmail.com)
+
+- LinkedIn: [linkedin.com/in/kishorekumarx](https://www.linkedin.com/in/kishorekumarx)
+
+- GitHub: [github.com/kishoreX11](https://github.com/kishoreX11)
+
+<div align="center">
+
+### Building intelligent, useful, and privacy-conscious software.
+
+</div>
