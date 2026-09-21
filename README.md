@@ -1,167 +1,111 @@
-<div align="center">
+# 👋 Hi, I'm Kishore Kumar J
 
-# Hi, I'm Kishore Kumar J 👋
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue.svg" alt="Focus">
+<img src="https://img.shields.io/badge/Stack-Full--Stack-brightgreen.svg" alt="Stack">
+<img src="https://img.shields.io/badge/Published-IEEE%20ICETSIS%202026-8A2BE2.svg" alt="Publication">
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-orange.svg" alt="Open to">
+</p>
 
-### AI Engineer · Full-Stack Developer · Builder of Practical AI Systems
+<p align="center">
+<b>AI Engineer & Full-Stack Developer</b> — building scalable web apps and AI-powered solutions 🚀
+</p>
 
-<p>
-<a href="mailto:kishorejcs2006@gmail.com"><img src="https://img.shields.io/badge/Email-kishorejcs2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/kishorekumarx"><img src="https://img.shields.io/badge/LinkedIn-kishorekumarx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/kishoreX11"><img src="https://img.shields.io/badge/GitHub-kishoreX11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p> </div>
+<p align="center">
+<a href="#-about-me">🧑‍💻 About</a> •
+<a href="#-tech-stack">🛠️ Tech Stack</a> •
+<a href="#-featured-projects">⭐ Projects</a> •
+<a href="#-experience">💼 Experience</a> •
+<a href="#-publications">📄 Publications</a> •
+<a href="#-certifications">🏅 Certifications</a>
+</p>
 
-## About Me
+---
 
-I am an **AI Engineer and Full-Stack Developer** pursuing a B.Tech in Computer Science and Business Systems at VSB Engineering College. I enjoy turning ideas into reliable products by combining modern web engineering with practical machine learning.
+## 🧑‍💻 About Me
 
-My work spans **AI-powered applications, REST API design, database-driven systems, privacy-first software, and cross-platform development**. I care about building solutions that are useful, maintainable, and easy for people to adopt.
+I'm a B.Tech student in **Computer Science & Business Systems** (VSB Engineering College, CGPA 7.55, Class of 2027) with hands-on experience building **scalable web applications** and **AI-powered solutions**. Proficient in Python, Java, React.js, Next.js, FastAPI, Node.js, PostgreSQL, and MongoDB — with practical AI-driven projects across finance, sustainability, and privacy-first search.
 
-- Currently pursuing my B.Tech with an expected graduation in **2027**
+**Core Competencies:** Full-Stack Development · REST API Design · AI/ML Integration · Database Management · Cross-Platform Development · Agile Collaboration
 
-- Based in **Tirupur, Tamil Nadu, India**
+📍 Tirupur, Tamil Nadu, India
 
-- Experienced in building with **Python, React, Next.js, FastAPI, Node.js, PostgreSQL, and MongoDB**
+## 🛠️ Tech Stack
 
-- Machine Learning Intern who achieved **85%+ model accuracy** and improved training efficiency by **25%**
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Java, Python, SQL |
+| **Frontend** | HTML, CSS, React.js, Next.js |
+| **Backend** | Node.js, Express.js, FastAPI, REST APIs |
+| **Databases** | PostgreSQL, MongoDB |
+| **Tools** | Git, GitHub, Docker |
 
-- Web Development Intern who contributed to and delivered **3+ client projects**
+## ⭐ Featured Projects
 
-- Co-author of an AI healthcare research paper presented at **ICETSIS 2026**
+### 💰 [FinX](https://github.com/kishoreX11) — AI-Powered Personal Finance Advisor *(Jul 2026)*
 
-## What I Build
+Personal finance platform that helps users track expenses, manage budgets, monitor financial activity, and make smarter spending decisions.
 
-```
-AI & Machine Learning       → Prediction systems, conversational AI, image recognition, intelligent search
-Full-Stack Applications      → Responsive interfaces, REST APIs, scalable backend services
-Data-Driven Products         → Finance tools, dashboards, analytics workflows, database systems
-Privacy-First Software       → On-device processing and semantic search for confidential documents
-```
+### 🔒 NaVault — Private Document Search *(Final Year Project · Team Binode · Ongoing 2026)*
 
-## Featured Projects
+Privacy-first semantic search for confidential documents — search by **meaning**, not exact words. Everything is processed **on-device** so no data ever leaves the user's machine.
 
-### FinX — AI-Powered Personal Finance Advisor
+### 🌱 [EcoQuest](https://github.com/kishoreX11) — Gamified Sustainability Platform *(Jun 2025)*
 
-A personal finance platform designed to help users track expenses, manage budgets, monitor financial activity, and make more informed spending decisions.
+A gamified web platform encouraging environmental awareness through missions, quizzes, and a **real-time leaderboard**.
 
-**Focus:** AI-powered financial guidance · Personal analytics · Budget management
+## 💼 Experience
 
-### NaVault — Private Document Search
+**🧠 Machine Learning Intern — Brainery Spot Technologies** · Karur, Tamil Nadu · *Jun 2024 – Aug 2024*
 
-A privacy-first semantic search tool that helps users find confidential documents by meaning rather than exact keywords. Its core principle is that documents are processed **on-device**, so private data does not leave the user's computer.
+- Trained and evaluated ML models for data prediction and analytics, achieving **85%+ model accuracy**
+- Improved training efficiency by **25%** through iterative preprocessing, feature engineering, and tuning
 
-**Focus:** Privacy-preserving AI · Semantic search · Local-first architecture
+**🌐 Web Development Intern — CodeBind Technologies** · *Nov 2025 – Dec 2025*
 
-> Final-year project built with **Team Binode** · Ongoing
+- Developed and maintained web applications across the front-end and back-end
+- Delivered **3+ client projects**, debugging issues and improving usability through active code review
 
-### EcoQuest
+## 📄 Publications
 
-A gamified environmental-awareness platform that encourages sustainable engagement through missions, quizzes, and a real-time leaderboard.
+**An AI Intelligence Wellness Framework Integrating Image Recognition and Conversational AI for Preventive Healthcare**
+*ICETSIS 2026 — IEEE Bahrain Section, Applied Science University, Bahrain · May 2026*
 
-**Focus:** Gamification · Community engagement · Real-time web experiences
+- Co-authored a peer-reviewed paper on a multimodal healthcare AI system combining image-based skin condition recognition (**EfficientNet-B3**) with conversational, voice-driven symptom analysis (**Gemini Vision API, Whisper**) for preventive care
+- Co-authors: S. Arivarasan, C. Manonmani, Logesh M, Jaiyanth B & Kishore Kanitkan M
+- Presented at the 2026 ASU International Conference on Emerging Technologies for Sustainability and Intelligent Systems
 
-[Explore EcoQuest on GitHub →](https://github.com/kishoreX11)
+## 🏅 Certifications
 
-## Professional Experience
+- **Programming in Java** — NPTEL
+- **TechA Java Full Stack Developer** — Infosys Springboard
+- **AWS Foundations: Getting Started with AWS Cloud Essentials** — AWS
+- **Python Foundation Certification** — Infosys Springboard
+- **Salesforce: Becoming an Agentforce Champion** — FutureSkills Prime / Salesforce
+- **Introduction to IoT and Digital Transformation** — Cisco Networking Academy
 
-### Machine Learning Intern — Brainery Spot Technologies
+## 🎓 Education
 
-**June 2024 – August 2024**
+| Institution | Program | Score | Year |
+| --- | --- | --- | --- |
+| VSB Engineering College | B.Tech — Computer Science & Business Systems | CGPA 7.55 · Expected 2027 | 2027 |
+| Jai Shri Ram Academy Matriculation School | Higher Secondary (Class XII) | 77% | 2023 |
 
-- Trained and evaluated machine learning models for prediction and analytics use cases.
+## 🗺️ Current Focus
 
-- Achieved **85%+ model accuracy** through iterative experimentation and evaluation.
+- 🧠 Deepening expertise in **multimodal AI** and LLM-powered applications
+- 🔒 Shipping **NaVault** — privacy-first semantic search
+- ☁️ Expanding cloud skills on **AWS**
 
-- Improved training efficiency by **25%** through preprocessing, feature engineering, and model-tuning workflows.
+---
 
-### Web Development Intern — CodeBind Technologies
-
-**November 2025 – December 2025**
-
-- Developed and maintained web applications across frontend and backend layers.
-
-- Delivered **3+ client projects** while debugging issues and improving usability.
-
-- Participated in code reviews and collaborative development workflows.
-
-## Technical Toolkit
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=swagger&logoColor=white)
-
-### Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## Publication
-
-### An AI Intelligence Wellness Framework Integrating Image Recognition and Conversational AI for Preventive Healthcare
-
-**ICETSIS 2026 · IEEE Bahrain Section · Applied Science University, Bahrain**
-
-Co-authored research on a multimodal healthcare system combining image-based skin-condition recognition with conversational, voice-driven symptom analysis for preventive care. The work also explored an AI-powered healthcare framework for supporting wellness and early awareness.
-
-## Certifications
-
-- Programming in Java — **NPTEL**
-
-- TechAJ Java Full Stack Developer — **Infosys Springboard**
-
-- AWS Foundations: Getting Started with the AWS Cloud Essentials — **AWS**
-
-- Python Foundation Certification — **Infosys Springboard**
-
-- Salesforce Becoming an Agentforce Champion — **FutureSkills Prime / Salesforce**
-
-- Introduction to IoT and Digital Transformation — **Cisco Networking Academy**
-
-## Education
-
-**B.Tech — Computer Science & Business Systems**
-VSB Engineering College, Karur, Tamil Nadu
-CGPA: **7.55** · Expected graduation: **2027**
-
-## GitHub Overview
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kishoreX11&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Kishore's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreX11&layout=compact&hide_border=true&theme=transparent" height="165" alt="Kishore's most used languages" />
-</div> <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kishoreX11&hide_border=true&theme=transparent" alt="Kishore's GitHub streak" />
-</div>
-
-## Let's Connect
-
-I am open to meaningful conversations about **AI engineering, full-stack development, machine learning applications, research collaborations, and opportunities to build useful technology**.
-
-- Email: [kishorejcs2006@gmail.com](mailto:kishorejcs2006@gmail.com)
-
-- LinkedIn: [linkedin.com/in/kishorekumarx](https://www.linkedin.com/in/kishorekumarx)
-
-- GitHub: [github.com/kishoreX11](https://github.com/kishoreX11)
-
-<div align="center">
-
-### Building intelligent, useful, and privacy-conscious software.
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/kishorekumarx"><img src="https://img.shields.io/badge/LinkedIn-kishorekumarx-0A66C2?logo=linkedin" alt="LinkedIn"></a>
+<a href="https://github.com/kishoreX11"><img src="https://img.shields.io/badge/GitHub-kishoreX11-181717?logo=github" alt="GitHub"></a>
+<a href="mailto:kishorejcs2006@gmail.com"><img src="https://img.shields.io/badge/Email-kishorejcs2006%40gmail.com-EA4335?logo=gmail" alt="Email"></a>
+<a href="tel:+917339656089"><img src="https://img.shields.io/badge/Phone-%2B91%2073396%2056089-25D366?logo=whatsapp" alt="Phone"></a>
+</p>
+
+<p align="center">
+⭐ Star my repos if you find them useful — and feel free to reach out for collaborations!
+</p>
